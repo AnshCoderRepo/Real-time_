@@ -1,0 +1,6 @@
+requests
+matplotlib
+aiohttp
+python-dotenv
+aiohttp==3.7.4
+matplotlib==3.4.3
